@@ -25,6 +25,8 @@ public class Tasks {
          * Для решения задачи используйте подходящий класс
          * из Java Collections Framework.
          */
+        
+   
         System.out.println("Input a string of numbers");
         String str = inputListNumber();//вводим строку набора чисел
         ArrayList<Integer> number;
